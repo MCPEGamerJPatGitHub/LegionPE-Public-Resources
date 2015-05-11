@@ -46,7 +46,9 @@
 		"tits",
 		"twat",
 		"wank",
-		"wanker"
+		"wanker",
+                "lmao",
+     B              
 	],
 	"badword_detection_regexp": "#(^|[^a-z])(%s)($|[^a-z])#i",
 	"badword_regexp_parenthese_order": 2,
